@@ -29,3 +29,4 @@ A list of articles and other resources that I will be adding onto as I discover 
 * [Browser automation](https://medium.com/@mottet.dev/lets-create-an-instagram-bot-to-show-you-the-power-of-selenium-349d7a6744f7)
 * [Improving react native performance](https://www.mindinventory.com/blog/optimizing-performance-of-react-native-app/)
 * [Difinitive guide to conditions in JS](https://medium.freecodecamp.org/a-definitive-guide-to-conditional-logic-in-javascript-23fa234d2ca3)
+* [Service Workers](https://developers.google.com/web/fundamentals/primers/service-workers/registration)

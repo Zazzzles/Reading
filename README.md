@@ -15,6 +15,7 @@ A list of articles and other resources that I will be adding onto as I discover 
 * [Simple effectinve animations](https://popmotion.io/pose/learn/native-get-started/)
 * [Useful progress indicators](https://github.com/oblador/react-native-progress)
 * [Image Caching](https://github.com/wcandillon/react-native-expo-image-cache)
+* [Async storage wrapper](https://github.com/tiaanduplessis/react-native-modest-storage)
 
 ### Design resources ###
 

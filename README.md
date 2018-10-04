@@ -33,3 +33,4 @@ A list of articles and other resources that I will be adding onto as I discover 
 * [Difinitive guide to conditions in JS](https://medium.freecodecamp.org/a-definitive-guide-to-conditional-logic-in-javascript-23fa234d2ca3)
 * [Service Workers](https://developers.google.com/web/fundamentals/primers/service-workers/registration)
 * [React Native Image Caching](https://hackernoon.com/smart-images-in-react-native-db0ef047dd8c)
+* [Publishing a package on NPM](https://docs.npmjs.com/getting-started/publishing-npm-packages)

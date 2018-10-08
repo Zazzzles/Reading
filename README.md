@@ -21,7 +21,8 @@ A list of articles and other resources that I will be adding onto as I discover 
 
 * [Color tool](https://www.hexcolortool.com/#302f41)
 * [Complimentary color generator](https://coolors.co/d30c7b-ffe3dc-dbb4ad-a2ad91-3a2d32)
-* [UI inspiration](https://www.behance.net/featured)
+* [Behance](https://www.behance.net/featured)
+* [UI Gradient generator](https://uigradients.com/#EmeraldWater)
 
 ### Articles ###
 

@@ -36,3 +36,7 @@ A list of articles and other resources that I will be adding onto as I discover 
 * [Publishing a package on NPM](https://docs.npmjs.com/getting-started/publishing-npm-packages)
 * [Intro to fetch API](https://medium.freecodecamp.org/a-practical-es6-guide-on-how-to-perform-http-requests-using-the-fetch-api-594c3d91a547)
 * [Creating async loading images React Native](https://blog.reactnativecoach.com/creating-an-asynchronous-loading-image-component-in-react-native-part-i-1b087d0ded62)
+* [How to structure your React project](https://medium.freecodecamp.org/how-to-structure-your-project-and-manage-static-resources-in-react-native-6f4cfc947d92)
+* [Component testing with React](https://medium.freecodecamp.org/components-testing-in-react-what-and-how-to-test-with-jest-and-enzyme-7c1cace99de5)
+* [Mastering modular Javascript(book)](https://github.com/mjavascript/mastering-modular-javascript)
+* [Snapshot testing with Jest](https://jestjs.io/docs/en/snapshot-testing)

@@ -12,7 +12,7 @@ A list of articles and other resources for reference
 * [Chart kit](https://github.com/indiespirit/react-native-chart-kit)
 * [Instant messaging](https://github.com/FaridSafi/react-native-gifted-chat)
 * [Comprihensive calendar library](https://github.com/wix/react-native-calendars)
-* [Simple effectinve animations](https://popmotion.io/pose/learn/native-get-started/)
+* [Simple effective animations](https://popmotion.io/pose/learn/native-get-started/)
 * [Useful progress indicators](https://github.com/oblador/react-native-progress)
 * [Image Caching](https://github.com/wcandillon/react-native-expo-image-cache)
 * [Async storage wrapper](https://github.com/tiaanduplessis/react-native-modest-storage)

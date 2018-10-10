@@ -1,5 +1,5 @@
 # Reading
-A list of articles and other resources that I will be adding onto as I discover them
+A list of articles and other resources for reference
 
 ### Firebase ###
 

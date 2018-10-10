@@ -42,3 +42,4 @@ A list of articles and other resources that I will be adding onto as I discover 
 * [Mastering modular Javascript(book)](https://github.com/mjavascript/mastering-modular-javascript)
 * [Snapshot testing with Jest](https://jestjs.io/docs/en/snapshot-testing)
 * [How programming affects thinking](https://medium.com/@alexmaisiura/a-fanatic-programmer-how-coding-affects-on-thinking-d087885da25a)
+* [Promises are meant to be broken](https://blog.hellojs.org/cancelable-promises-for-all-or-at-least-everyone-on-our-team-27c0b8f46bcd)

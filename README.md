@@ -23,6 +23,7 @@ A list of articles and other resources for reference
 * [Complimentary color generator](https://coolors.co/d30c7b-ffe3dc-dbb4ad-a2ad91-3a2d32)
 * [Behance](https://www.behance.net/featured)
 * [UI Gradient generator](https://uigradients.com/#EmeraldWater)
+* [IOS mobile UI kit](https://www.behance.net/gallery/71066719/Figma-iOS-12-components-Design-kit-Team-library-UI)
 
 ### Articles ###
 

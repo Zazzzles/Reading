@@ -49,3 +49,4 @@ A list of articles and other resources for reference
 * [Promises are meant to be broken](https://blog.hellojs.org/cancelable-promises-for-all-or-at-least-everyone-on-our-team-27c0b8f46bcd)
 * [TypeChecking with proptypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
 * [Component testing with Jest and Enzyme](https://medium.freecodecamp.org/components-testing-in-react-what-and-how-to-test-with-jest-and-enzyme-7c1cace99de5)
+* [Focus and deep work](https://medium.freecodecamp.org/focus-and-deep-work-your-secret-weapons-to-becoming-a-10x-developer-8e203a6ad291)

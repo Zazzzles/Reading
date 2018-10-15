@@ -6,6 +6,7 @@ A list of articles and other resources for reference
 * [Read and write](https://firebase.google.com/docs/database/web/read-and-write)
 * [Manage users](https://firebase.google.com/docs/auth/web/manage-users)
 * [Structuring data](https://firebase.google.com/docs/database/ios/structure-data)
+* [Firebase data modelling(Medium)](https://howtofirebase.com/firebase-data-modeling-939585ade7f4)
 
 ### React native libraries ###
 

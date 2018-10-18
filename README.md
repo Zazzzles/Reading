@@ -19,16 +19,20 @@ A list of articles and other resources for reference
 * [Image Caching](https://github.com/wcandillon/react-native-expo-image-cache)
 * [Async storage wrapper](https://github.com/tiaanduplessis/react-native-modest-storage)
 
+### Online tools ###
+
+* [Powerful json formatter](https://jsonformatter.org/)
+* [Color tool](https://www.hexcolortool.com/#302f41)
+* [Complimentary color generator](https://coolors.co/d30c7b-ffe3dc-dbb4ad-a2ad91-3a2d32)
+* [UI Gradient generator](https://uigradients.com/#EmeraldWater)
+
 ### React native web ###
 
 * [React native web](https://github.com/necolas/react-native-web)
 
 ### Design resources ###
 
-* [Color tool](https://www.hexcolortool.com/#302f41)
-* [Complimentary color generator](https://coolors.co/d30c7b-ffe3dc-dbb4ad-a2ad91-3a2d32)
 * [Behance](https://www.behance.net/featured)
-* [UI Gradient generator](https://uigradients.com/#EmeraldWater)
 * [IOS mobile UI kit](https://www.behance.net/gallery/71066719/Figma-iOS-12-components-Design-kit-Team-library-UI)
 * [MDL Type system](https://material.io/design/typography/the-type-system.html#type-scale)
 

@@ -59,3 +59,4 @@ A list of articles and other resources for reference
 * [Component testing with Jest and Enzyme](https://medium.freecodecamp.org/components-testing-in-react-what-and-how-to-test-with-jest-and-enzyme-7c1cace99de5)
 * [Focus and deep work](https://medium.freecodecamp.org/focus-and-deep-work-your-secret-weapons-to-becoming-a-10x-developer-8e203a6ad291)
 * [Setting up Node.js server on a Pi](https://blog.cloudboost.io/how-to-run-a-nodejs-web-server-on-a-raspberry-pi-for-development-3ef9ac0fc02c)
+* [Javascript closures](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8)

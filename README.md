@@ -63,3 +63,4 @@ A list of articles and other resources for reference
 * [Javascript closures](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8)
 * [Dependancy injection](https://medium.freecodecamp.org/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f)
 * [Conditional javascript](https://hackernoon.com/conditional-javascript-for-experts-d2aa456ef67c)
+* [Building a tensorflow training pipeline](https://medium.com/@urimerhav/how-to-quickly-build-a-tensorflow-training-pipeline-15e9ae4d78a0)

@@ -66,3 +66,4 @@ A list of articles and other resources for reference
 * [Building a tensorflow training pipeline](https://medium.com/@urimerhav/how-to-quickly-build-a-tensorflow-training-pipeline-15e9ae4d78a0)
 * [Async await in loops](https://blog.lavrton.com/javascript-loops-how-to-handle-async-await-6252dd3c795)
 * [Reactive programming with javascript](https://medium.com/@sgavhane70/reactive-programming-in-javascript-with-rxjs-9db53c07ef14)
+* [Deploy a MERN stack on Heroku](https://medium.com/crowdbotics/deploy-a-mern-stack-app-on-heroku-b0c255744a70)

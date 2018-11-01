@@ -67,3 +67,4 @@ A list of articles and other resources for reference
 * [Async await in loops](https://blog.lavrton.com/javascript-loops-how-to-handle-async-await-6252dd3c795)
 * [Reactive programming with javascript](https://medium.com/@sgavhane70/reactive-programming-in-javascript-with-rxjs-9db53c07ef14)
 * [Deploy a MERN stack on Heroku](https://medium.com/crowdbotics/deploy-a-mern-stack-app-on-heroku-b0c255744a70)
+* [React native's new architecture](https://www.youtube.com/watch?v=UcqRXTriUVI&amp=&index=26&amp=&t=0s)

@@ -69,3 +69,4 @@ A list of articles and other resources for reference
 * [Deploy a MERN stack on Heroku](https://medium.com/crowdbotics/deploy-a-mern-stack-app-on-heroku-b0c255744a70)
 * [React native's new architecture](https://www.youtube.com/watch?v=UcqRXTriUVI&amp=&index=26&amp=&t=0s)
 * [Expo vs native cli](https://hackernoon.com/you-are-not-a-react-native-noob-c4309ceccd91)
+* [Node js summarized](https://medium.com/@kieranmaher13/nodejs-in-three-ish-minutes-4c4401b43b2c)

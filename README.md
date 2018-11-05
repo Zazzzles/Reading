@@ -70,3 +70,4 @@ A list of articles and other resources for reference
 * [React native's new architecture](https://www.youtube.com/watch?v=UcqRXTriUVI&amp=&index=26&amp=&t=0s)
 * [Expo vs native cli](https://hackernoon.com/you-are-not-a-react-native-noob-c4309ceccd91)
 * [Node js summarized](https://medium.com/@kieranmaher13/nodejs-in-three-ish-minutes-4c4401b43b2c)
+* [Why you should learn pyhton](https://medium.com/@austinhowardtech/why-you-should-learn-python-for-your-first-programming-language-da770a759e87)

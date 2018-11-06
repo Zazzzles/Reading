@@ -72,3 +72,4 @@ A list of articles and other resources for reference
 * [Node js summarized](https://medium.com/@kieranmaher13/nodejs-in-three-ish-minutes-4c4401b43b2c)
 * [Why you should learn pyhton](https://medium.com/@austinhowardtech/why-you-should-learn-python-for-your-first-programming-language-da770a759e87)
 * [Realtime soundcloud waveform in RN](https://medium.freecodecamp.org/how-to-make-realtime-soundcloud-waveforms-in-react-native-4df0f4c6b3cc)
+* [Generative art with python](https://medium.freecodecamp.org/how-to-create-generative-art-in-less-than-100-lines-of-code-d37f379859f)

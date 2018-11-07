@@ -25,6 +25,7 @@ A list of articles and other resources for reference
 * [Color tool](https://www.hexcolortool.com/#302f41)
 * [Complimentary color generator](https://coolors.co/d30c7b-ffe3dc-dbb4ad-a2ad91-3a2d32)
 * [UI Gradient generator](https://uigradients.com/#EmeraldWater)
+* [Powerful online gif and video editor](https://ezgif.com/)
 
 ### React native web ###
 

@@ -49,6 +49,7 @@ A list of articles and other resources for reference as I discover them.
 * [Conditional javascript](https://hackernoon.com/conditional-javascript-for-experts-d2aa456ef67c)
 * [Reactive programming with javascript](https://medium.com/@sgavhane70/reactive-programming-in-javascript-with-rxjs-9db53c07ef14)
 * [10 JS fundamentals](https://levelup.gitconnected.com/10-things-to-learn-on-the-way-to-become-a-javascript-master-f4fc632b2bb7)
+* [Understanding async javascript](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff)
 
 ### Testing ###
 

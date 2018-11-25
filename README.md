@@ -85,3 +85,4 @@ A list of articles and other resources for reference as I discover them.
 * [Making sense of react hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
 * [Understanding any programming task](https://medium.freecodecamp.org/how-to-understand-any-programming-task-aea41eabe66e)
 * [React context api](https://medium.com/@shemseddine/react-context-api-and-higher-order-components-d81573688a1c)
+* [14 rules for handling data migrations](https://medium.com/@guysegev/14-rules-for-writing-a-data-migration-ac5630648b58)

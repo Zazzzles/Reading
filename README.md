@@ -87,3 +87,4 @@ A list of articles and other resources for reference as I discover them.
 * [React context api](https://medium.com/@shemseddine/react-context-api-and-higher-order-components-d81573688a1c)
 * [14 rules for handling data migrations](https://medium.com/@guysegev/14-rules-for-writing-a-data-migration-ac5630648b58)
 * [The SOLID principle](https://dzone.com/articles/the-solid-principles-in-real-life)
+* [Design patterns](https://sourcemaking.com/design_patterns)

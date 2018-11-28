@@ -50,7 +50,7 @@ A list of articles and other resources for reference as I discover them.
 * [Reactive programming with javascript](https://medium.com/@sgavhane70/reactive-programming-in-javascript-with-rxjs-9db53c07ef14)
 * [10 JS fundamentals](https://levelup.gitconnected.com/10-things-to-learn-on-the-way-to-become-a-javascript-master-f4fc632b2bb7)
 * [Understanding async javascript](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff)
-
+* [1997 ECMA script documentation PDF](http://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262,%201st%20edition,%20June%201997.pdf)
 ### Testing ###
 
 * [Snapshot testing with Jest](https://jestjs.io/docs/en/snapshot-testing)

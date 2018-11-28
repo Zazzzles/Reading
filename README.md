@@ -88,3 +88,4 @@ A list of articles and other resources for reference as I discover them.
 * [14 rules for handling data migrations](https://medium.com/@guysegev/14-rules-for-writing-a-data-migration-ac5630648b58)
 * [The SOLID principle](https://dzone.com/articles/the-solid-principles-in-real-life)
 * [Design patterns](https://sourcemaking.com/design_patterns)
+* [The basics of writing clean code](https://medium.com/programming-hacks/basics-of-writing-clean-code-c1e79f3315d3)

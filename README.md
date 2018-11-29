@@ -94,3 +94,4 @@ A list of articles and other resources for reference as I discover them.
 * [The SOLID principle](https://dzone.com/articles/the-solid-principles-in-real-life)
 * [Design patterns](https://sourcemaking.com/design_patterns)
 * [The basics of writing clean code](https://medium.com/programming-hacks/basics-of-writing-clean-code-c1e79f3315d3)
+* [10 Bad habits to avoid as a developer](https://medium.com/@traversymedia/10-bad-habits-to-avoid-as-a-developer-64a1677c60fe)

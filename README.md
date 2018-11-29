@@ -18,6 +18,15 @@ A list of articles and other resources for reference as I discover them.
 * [Useful progress indicators](https://github.com/oblador/react-native-progress)
 * [Image Caching](https://github.com/wcandillon/react-native-expo-image-cache)
 * [Async storage wrapper](https://github.com/tiaanduplessis/react-native-modest-storage)
+* [React native web](https://github.com/necolas/react-native-web)
+
+### React.js libraries ###
+
+* [Scroll reveal](https://www.npmjs.com/package/react-reveal)
+
+### React.js tools ###
+
+* [Instant free deployment](https://surge.sh/)
 
 ### Online tools ###
 
@@ -26,10 +35,6 @@ A list of articles and other resources for reference as I discover them.
 * [Complimentary color generator](https://coolors.co/d30c7b-ffe3dc-dbb4ad-a2ad91-3a2d32)
 * [UI Gradient generator](https://uigradients.com/#EmeraldWater)
 * [Powerful online gif and video editor](https://ezgif.com/)
-
-### React native web ###
-
-* [React native web](https://github.com/necolas/react-native-web)
 
 ### Design resources ###
 

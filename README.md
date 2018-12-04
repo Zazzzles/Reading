@@ -96,3 +96,4 @@ A list of articles and other resources for reference as I discover them.
 * [The basics of writing clean code](https://medium.com/programming-hacks/basics-of-writing-clean-code-c1e79f3315d3)
 * [10 Bad habits to avoid as a developer](https://medium.com/@traversymedia/10-bad-habits-to-avoid-as-a-developer-64a1677c60fe)
 * [Bring SVG graphics to life with react](https://www.thinkful.com/projects/bringing-svg-graphics-to-life-with-react-432/)
+* [How to finish a side project](https://medium.com/@kbrawner22/how-to-finish-a-side-project-9427f537b87)

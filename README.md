@@ -98,3 +98,4 @@ A list of articles and other resources for reference as I discover them.
 * [Bring SVG graphics to life with react](https://www.thinkful.com/projects/bringing-svg-graphics-to-life-with-react-432/)
 * [How to finish a side project](https://medium.com/@kbrawner22/how-to-finish-a-side-project-9427f537b87)
 * [Why do we write super(props)](https://overreacted.io/why-do-we-write-super-props/)
+* [Writing clean code](https://medium.com/swlh/excellent-code-clean-and-beautiful-code-b541ca4b5a39)

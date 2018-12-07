@@ -23,6 +23,7 @@ A list of articles and other resources for reference as I discover them.
 ### React.js libraries ###
 
 * [Scroll reveal](https://www.npmjs.com/package/react-reveal)
+* [Shopify storefront boilerplate](https://github.com/frewinchristopher/react-redux-shopify-storefront-api-example)
 
 ### React.js tools ###
 
@@ -99,4 +100,6 @@ A list of articles and other resources for reference as I discover them.
 * [How to finish a side project](https://medium.com/@kbrawner22/how-to-finish-a-side-project-9427f537b87)
 * [Why do we write super(props)](https://overreacted.io/why-do-we-write-super-props/)
 * [Writing clean code](https://medium.com/swlh/excellent-code-clean-and-beautiful-code-b541ca4b5a39)
-8 [CSS Modules](https://css-tricks.com/css-modules-part-1-need/)
+* [CSS Modules](https://css-tricks.com/css-modules-part-1-need/)
+* [Creating a online store with React and shopify](https://medium.freecodecamp.org/a-detailed-tutorial-how-to-use-shopifys-storefront-api-with-react-and-redux-37f95cbab7f)
+

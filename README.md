@@ -102,4 +102,5 @@ A list of articles and other resources for reference as I discover them.
 * [Writing clean code](https://medium.com/swlh/excellent-code-clean-and-beautiful-code-b541ca4b5a39)
 * [CSS Modules](https://css-tricks.com/css-modules-part-1-need/)
 * [Creating a online store with React and shopify](https://medium.freecodecamp.org/a-detailed-tutorial-how-to-use-shopifys-storefront-api-with-react-and-redux-37f95cbab7f)
+* [Immutable web apps](https://immutablewebapps.org/)
 

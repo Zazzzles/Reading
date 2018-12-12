@@ -43,6 +43,7 @@ A list of articles and other resources for reference as I discover them.
 * [IOS mobile UI kit](https://www.behance.net/gallery/71066719/Figma-iOS-12-components-Design-kit-Team-library-UI)
 * [MDL Type system](https://material.io/design/typography/the-type-system.html#type-scale)
 * [8px spacing system](https://spec.fm/specifics/8-pt-grid)
+8 [7 Practical desgin tips](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 
 ### Javascript ###
 

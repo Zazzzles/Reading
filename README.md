@@ -38,6 +38,8 @@ A list of articles and other resources for reference as I discover them.
 * [Complimentary color generator](https://coolors.co/d30c7b-ffe3dc-dbb4ad-a2ad91-3a2d32)
 * [UI Gradient generator](https://uigradients.com/#EmeraldWater)
 * [Powerful online gif and video editor](https://ezgif.com/)
+* [Free stock images](https://www.pexels.com)
+* [More free stock images](https://pixabay.com)
 
 ### Design resources ###
 

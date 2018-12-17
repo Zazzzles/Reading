@@ -24,6 +24,7 @@ A list of articles and other resources for reference as I discover them.
 
 * [Scroll reveal](https://www.npmjs.com/package/react-reveal)
 * [Shopify storefront boilerplate](https://github.com/frewinchristopher/react-redux-shopify-storefront-api-example)
+* [React iFrame](https://www.npmjs.com/package/react-iframe)
 
 ### React.js tools ###
 

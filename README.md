@@ -112,3 +112,4 @@ A list of articles and other resources for reference as I discover them.
 * [Hiding secrets for web app deployment](https://stackoverflow.com/questions/48699820/how-do-i-hide-api-key-in-create-react-app)
 * [Javascript References](https://medium.com/@Charles_Stover/cache-your-react-event-listeners-to-improve-performance-14f635a62e15)
 * [Understanding react render props](https://blog.bitsrc.io/understanding-react-render-props-and-hoc-b37a9576e196)
+* [FE 2018 recap](https://levelup.gitconnected.com/a-recap-of-frontend-development-in-2018-715724c9441d)

@@ -110,4 +110,5 @@ A list of articles and other resources for reference as I discover them.
 * [Immutable web apps](https://immutablewebapps.org/)
 * [Accio recursion in JS](https://medium.com/datadriveninvestor/accio-recursion-your-new-favorite-javascript-spell-7e10d3125fb3)
 * [Hiding secrets for web app deployment](https://stackoverflow.com/questions/48699820/how-do-i-hide-api-key-in-create-react-app)
+* [Javascript References](https://medium.com/@Charles_Stover/cache-your-react-event-listeners-to-improve-performance-14f635a62e15)
 

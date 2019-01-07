@@ -114,3 +114,4 @@ A list of articles and other resources for reference as I discover them.
 * [Javascript References](https://medium.com/@Charles_Stover/cache-your-react-event-listeners-to-improve-performance-14f635a62e15)
 * [Understanding react render props](https://blog.bitsrc.io/understanding-react-render-props-and-hoc-b37a9576e196)
 * [FE 2018 recap](https://levelup.gitconnected.com/a-recap-of-frontend-development-in-2018-715724c9441d)
+* [Rasterized line drawing function](https://medium.com/@js_tut/coding-your-first-algorithm-bc0fc2a4e862)

@@ -19,6 +19,7 @@ A list of articles and other resources for reference as I discover them.
 * [Image Caching](https://github.com/wcandillon/react-native-expo-image-cache)
 * [Async storage wrapper](https://github.com/tiaanduplessis/react-native-modest-storage)
 * [React native web](https://github.com/necolas/react-native-web)
+* [React native filesystem](https://github.com/itinance/react-native-fs)
 
 ### React.js libraries ###
 

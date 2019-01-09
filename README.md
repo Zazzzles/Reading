@@ -115,3 +115,4 @@ A list of articles and other resources for reference as I discover them.
 * [Understanding react render props](https://blog.bitsrc.io/understanding-react-render-props-and-hoc-b37a9576e196)
 * [FE 2018 recap](https://levelup.gitconnected.com/a-recap-of-frontend-development-in-2018-715724c9441d)
 * [Rasterized line drawing function](https://medium.com/@js_tut/coding-your-first-algorithm-bc0fc2a4e862)
+* [Comparing top web animation libraries for react](https://logrocket.com/blog/comparing-the-top-js-animation-libraries-for-use-in-react-apps-2/)

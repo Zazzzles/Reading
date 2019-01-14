@@ -117,3 +117,4 @@ A list of articles and other resources for reference as I discover them.
 * [Rasterized line drawing function](https://medium.com/@js_tut/coding-your-first-algorithm-bc0fc2a4e862)
 * [Comparing top web animation libraries for react](https://logrocket.com/blog/comparing-the-top-js-animation-libraries-for-use-in-react-apps-2/)
 * [Building desktop apps with HTML, CSS and JS](https://medium.freecodecamp.org/how-to-easily-build-desktop-apps-with-html-css-and-javascript-d3e3f03f95a5)
+* [Securing a node.js API with JSON web tokens](https://medium.freecodecamp.org/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52)

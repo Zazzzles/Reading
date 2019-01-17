@@ -21,12 +21,13 @@ A list of articles and other resources for reference as I discover them.
 * [React native web](https://github.com/necolas/react-native-web)
 * [React native filesystem](https://github.com/itinance/react-native-fs)
 
-### React.js libraries ###
+### React libraries ###
 
 * [Scroll reveal](https://www.npmjs.com/package/react-reveal)
 * [Shopify storefront boilerplate](https://github.com/frewinchristopher/react-redux-shopify-storefront-api-example)
 * [React iFrame](https://www.npmjs.com/package/react-iframe)
 * [React grid gallery](https://www.npmjs.com/package/react-grid-gallery)
+* [Styled System](https://github.com/jxnblk/styled-system/blob/master/docs/getting-started.md)
 
 ### React.js tools ###
 
@@ -119,3 +120,4 @@ A list of articles and other resources for reference as I discover them.
 * [Building desktop apps with HTML, CSS and JS](https://medium.freecodecamp.org/how-to-easily-build-desktop-apps-with-html-css-and-javascript-d3e3f03f95a5)
 * [Securing a node.js API with JSON web tokens](https://medium.freecodecamp.org/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52)
 * [Design and code](https://medium.com/@nilsken/coding-designers-bc916863b223)
+* [Build better component libraries with styled system](https://medium.com/styled-components/build-better-component-libraries-with-styled-system-4951653d54ee)

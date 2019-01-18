@@ -121,3 +121,4 @@ A list of articles and other resources for reference as I discover them.
 * [Securing a node.js API with JSON web tokens](https://medium.freecodecamp.org/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52)
 * [Design and code](https://medium.com/@nilsken/coding-designers-bc916863b223)
 * [Build better component libraries with styled system](https://medium.com/styled-components/build-better-component-libraries-with-styled-system-4951653d54ee)
+* [SVG bezier curves](https://vanseodesign.com/web-design/svg-paths-curve-commands/)

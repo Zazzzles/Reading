@@ -123,3 +123,4 @@ A list of articles and other resources for reference as I discover them.
 * [Design and code](https://medium.com/@nilsken/coding-designers-bc916863b223)
 * [Build better component libraries with styled system](https://medium.com/styled-components/build-better-component-libraries-with-styled-system-4951653d54ee)
 * [SVG bezier curves](https://vanseodesign.com/web-design/svg-paths-curve-commands/)
+* [Understanding static in javascript](https://medium.com/front-end-weekly/understanding-static-in-javascript-10782149993)

@@ -127,3 +127,4 @@ A list of articles and other resources for reference as I discover them.
 * [Understanding static in javascript](https://medium.com/front-end-weekly/understanding-static-in-javascript-10782149993)
 * [A deep dive into React children](https://mxstbr.blog/2017/02/react-children-deepdive/)
 * [How to make your app work offline with the power of javascript](https://medium.freecodecamp.org/how-to-make-your-app-work-offline-with-the-power-of-javascript-685d968bcfbb)
+* [Breadth first vs depth first search](https://medium.com/@kevin.hw.ko/depth-first-vs-breadth-first-search-d600002bc767)

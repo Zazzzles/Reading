@@ -131,3 +131,4 @@ A list of articles and other resources for reference as I discover them.
 * [Intergrating CSS modules with react](https://medium.freecodecamp.org/how-i-integrated-css-modules-with-scss-into-my-react-application-32f473e1bb51)
 * [A simple guide to ES6 iterators](https://codeburst.io/a-simple-guide-to-es6-iterators-in-javascript-with-examples-189d052c3d8e)
 * [The react handbook](https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795)
+* [From java to javascript](https://medium.com/@reime005/from-java-to-javascript-callback-and-promise-cc9c0d8be304)

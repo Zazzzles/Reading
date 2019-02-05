@@ -72,6 +72,10 @@ A list of articles and other resources for reference as I discover them.
 * [Component testing with React](https://medium.freecodecamp.org/components-testing-in-react-what-and-how-to-test-with-jest-and-enzyme-7c1cace99de5)
 * [Component testing with Jest and Enzyme](https://medium.freecodecamp.org/components-testing-in-react-what-and-how-to-test-with-jest-and-enzyme-7c1cace99de5)
 
+### Big apps for the real world ###
+
+* [Next.js from init to prod](https://medium.com/@sscaff1/nextjs-from-npm-init-to-production-c9f543169bfb)
+
 ### Articles ###
 
 * [Creating a react native app with Node.js backend](https://medium.com/coderinred/creating-a-react-native-app-with-node-js-backend-part-1-8fe79ac0f893)

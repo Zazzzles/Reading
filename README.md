@@ -75,6 +75,7 @@ A list of articles and other resources for reference as I discover them.
 ### Big apps for the real world ###
 
 * [Next.js from init to prod](https://medium.com/@sscaff1/nextjs-from-npm-init-to-production-c9f543169bfb)
+* [Configuring CircleCi](https://circleci.com/docs/2.0/configuration-reference/#section=configuration)
 
 ### Articles ###
 

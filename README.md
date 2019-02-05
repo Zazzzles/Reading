@@ -34,6 +34,10 @@ A list of articles and other resources for reference as I discover them.
 
 * [Instant free deployment](https://surge.sh/)
 
+### Next.js resources ###
+
+* [Next routes](https://github.com/fridays/next-routes)
+
 ### Online tools ###
 
 * [Powerful json formatter](https://jsonformatter.org/)

@@ -77,6 +77,7 @@ A list of articles and other resources for reference as I discover them.
 * [Next.js from init to prod](https://medium.com/@sscaff1/nextjs-from-npm-init-to-production-c9f543169bfb)
 * [Configuring CircleCi](https://circleci.com/docs/2.0/configuration-reference/#section=configuration)
 * [Deply next js apps with Heroku](https://medium.com/@jacoboakley/deploy-a-next-js-app-on-heroku-69bcb01db1b7)
+* [Circle CI with github](https://github.com/marketplace/circleci)
 
 ### Articles ###
 

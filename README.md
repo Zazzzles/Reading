@@ -2,8 +2,8 @@
 A list of articles and other resources for reference as I discover them.
 
 ##### Table of Contents  
-⋅⋅* [Headers](#headers)  
-⋅⋅* [Emphasis](#emphasis)  
+⋅⋅ [Headers](#headers)  
+⋅⋅ [Emphasis](#emphasis)  
 
 ### Firebase ###
 

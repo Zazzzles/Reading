@@ -4,11 +4,23 @@ A list of articles and other resources for reference as I discover them.
 --------
 
 ##### Table of Contents  
-* [Headers](#headers)  
-* [Emphasis](#emphasis)  
+* [Firebase](#firebase)  
+* [React native librarie](#rnlib)  
+* [React libraries](#reactlib)  
+* [React.js tools](#reacttools)  
+* [Next.js resources](#nextresources)  
+* [Express middleware](#expressmidware)  
+* [Online tools](#onlinetools)  
+* [Design resources](#design)  
+* [Javascript](#js)  
+* [Testing](#testing)  
+* [Big apps for the real world](#bigapps)  
+* [Articles](#articles)  
+
 
 -------
 
+<a name="firebase"/>
 ### Firebase ###
 
 * [Read and write](https://firebase.google.com/docs/database/web/read-and-write)
@@ -16,6 +28,7 @@ A list of articles and other resources for reference as I discover them.
 * [Structuring data](https://firebase.google.com/docs/database/ios/structure-data)
 * [Firebase data modelling(Medium)](https://howtofirebase.com/firebase-data-modeling-939585ade7f4)
 
+<a name="rnlib"/>
 ### React native libraries ###
 
 * [Fluid transitions](https://github.com/fram-x/FluidTransitions)
@@ -29,6 +42,7 @@ A list of articles and other resources for reference as I discover them.
 * [React native web](https://github.com/necolas/react-native-web)
 * [React native filesystem](https://github.com/itinance/react-native-fs)
 
+<a name="reactlib"/>
 ### React libraries ###
 
 * [Scroll reveal](https://www.npmjs.com/package/react-reveal)
@@ -38,16 +52,18 @@ A list of articles and other resources for reference as I discover them.
 * [Styled System](https://github.com/jxnblk/styled-system/blob/master/docs/getting-started.md)
 * [YUP JS Objcet validation](https://github.com/jquense/yup)
 
-<a name="headers"/>
+<a name="reacttools"/>
 ### React.js tools ###
 
 * [Instant free deployment](https://surge.sh/)
 
+<a name="nextresources"/>
 ### Next.js resources ###
 
 * [Next routes](https://github.com/fridays/next-routes)
 * [Building a server side rendered app with Next](https://blog.logrocket.com/how-to-build-a-server-rendered-react-app-with-next-express-d5a389e7ab2f)
 
+<a name="expressmidware"/>
 ### Express middleware ###
 
 * [Rate Limiting](https://www.npmjs.com/package/express-rate-limit)
@@ -56,6 +72,7 @@ A list of articles and other resources for reference as I discover them.
 * [Hemlet for HTTP headers](https://www.npmjs.com/package/helmet)
 * [Morgan request logger](https://www.npmjs.com/package/morgan)
 
+<a name="onlinetools"/>
 ### Online tools ###
 
 * [Powerful json formatter](https://jsonformatter.org/)
@@ -67,14 +84,16 @@ A list of articles and other resources for reference as I discover them.
 * [More free stock images](https://pixabay.com)
 * [SVG Cheatsheet](https://learn-the-web.algonquindesign.ca/topics/svg-cheat-sheet/)
 
+<a name="design"/>
 ### Design resources ###
 
 * [Behance](https://www.behance.net/featured)
 * [IOS mobile UI kit](https://www.behance.net/gallery/71066719/Figma-iOS-12-components-Design-kit-Team-library-UI)
 * [MDL Type system](https://material.io/design/typography/the-type-system.html#type-scale)
 * [8px spacing system](https://spec.fm/specifics/8-pt-grid)
-8 [7 Practical desgin tips](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
+* [7 Practical desgin tips](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 
+<a name="js"/>
 ### Javascript ###
 
 * [Difinitive guide to conditions in JS](https://medium.freecodecamp.org/a-definitive-guide-to-conditional-logic-in-javascript-23fa234d2ca3)
@@ -89,12 +108,15 @@ A list of articles and other resources for reference as I discover them.
 * [Understanding async javascript](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff)
 * [1997 ECMA script documentation PDF](http://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262,%201st%20edition,%20June%201997.pdf)
 
+
+<a name="testing"/>
 ### Testing ###
 
 * [Snapshot testing with Jest](https://jestjs.io/docs/en/snapshot-testing)
 * [Component testing with React](https://medium.freecodecamp.org/components-testing-in-react-what-and-how-to-test-with-jest-and-enzyme-7c1cace99de5)
 * [Component testing with Jest and Enzyme](https://medium.freecodecamp.org/components-testing-in-react-what-and-how-to-test-with-jest-and-enzyme-7c1cace99de5)
 
+<a name="bigapps"/>
 ### Big apps for the real world ###
 
 * [Next.js from init to prod](https://medium.com/@sscaff1/nextjs-from-npm-init-to-production-c9f543169bfb)
@@ -102,6 +124,7 @@ A list of articles and other resources for reference as I discover them.
 * [Deply next js apps with Heroku](https://medium.com/@jacoboakley/deploy-a-next-js-app-on-heroku-69bcb01db1b7)
 * [Circle CI with github](https://github.com/marketplace/circleci)
 
+<a name="articles"/>
 ### Articles ###
 
 * [Creating a react native app with Node.js backend](https://medium.com/coderinred/creating-a-react-native-app-with-node-js-backend-part-1-8fe79ac0f893)

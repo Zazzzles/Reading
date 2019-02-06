@@ -3,7 +3,8 @@ A list of articles and other resources for reference as I discover them.
 
 --------
 
-##### Table of Contents  
+### Table of Contents ### 
+
 * [Firebase](#firebase)  
 * [React native librarie](#rnlib)  
 * [React libraries](#reactlib)  

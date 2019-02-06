@@ -1,4 +1,4 @@
-# Reading
+# Reading 📖
 A list of articles and other resources for reference as I discover them.
 
 --------

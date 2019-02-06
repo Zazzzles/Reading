@@ -5,18 +5,18 @@ A list of articles and other resources for reference as I discover them.
 
 ### Table of Contents ### 
 
-* [Firebase](#firebase)  
-* [React native librarie](#rnlib)  
-* [React libraries](#reactlib)  
-* [React.js tools](#reacttools)  
-* [Next.js resources](#nextresources)  
-* [Express middleware](#expressmidware)  
-* [Online tools](#onlinetools)  
-* [Design resources](#design)  
-* [Javascript](#js)  
-* [Testing](#testing)  
-* [Big apps for the real world](#bigapps)  
-* [Articles](#articles)  
+* [Firebase](#firebase) 🔥
+* [React native librarie](#rnlib) 📚
+* [React libraries](#reactlib) 📚
+* [React.js tools](#reacttools) 🔧  
+* [Next.js resources](#nextresources) 📑    
+* [Express middleware](#expressmidware) 🔩 
+* [Online tools](#onlinetools) 🔧 
+* [Design resources](#design) 🎨
+* [Javascript](#js) ✨
+* [Testing](#testing) 📋
+* [Big apps for the real world](#bigapps) 🏭
+* [Articles](#articles) 📇
 
 
 -------

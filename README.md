@@ -6,7 +6,7 @@ A list of articles and other resources for reference as I discover them.
 ### Table of Contents ### 
 
 * [Firebase](#firebase) 🔥
-* [React native librarie](#rnlib) 📚
+* [React native libraries](#rnlib) 📚
 * [React libraries](#reactlib) 📚
 * [React.js tools](#reacttools) 🔧  
 * [Next.js resources](#nextresources) 📑    
@@ -44,6 +44,7 @@ A list of articles and other resources for reference as I discover them.
 * [Async storage wrapper](https://github.com/tiaanduplessis/react-native-modest-storage)
 * [React native web](https://github.com/necolas/react-native-web)
 * [React native filesystem](https://github.com/itinance/react-native-fs)
+* [Material dropdown](https://www.npmjs.com/package/react-native-material-dropdown)
 
 <a name="reactlib"/>
 

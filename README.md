@@ -138,6 +138,7 @@ A list of articles and other resources for reference as I discover them.
 * [Configuring CircleCi](https://circleci.com/docs/2.0/configuration-reference/#section=configuration)
 * [Deply next js apps with Heroku](https://medium.com/@jacoboakley/deploy-a-next-js-app-on-heroku-69bcb01db1b7)
 * [Circle CI with github](https://github.com/marketplace/circleci)
+* [Architecting your React app](https://blog.usejournal.com/architecting-your-react-application-5af9cd65a891)
 
 <a name="articles"/>
 

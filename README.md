@@ -71,6 +71,9 @@ A list of articles and other resources for reference as I discover them.
 
 * [Next routes](https://github.com/fridays/next-routes)
 * [Building a server side rendered app with Next](https://blog.logrocket.com/how-to-build-a-server-rendered-react-app-with-next-express-d5a389e7ab2f)
+* [Optimized images](https://www.npmjs.com/package/next-optimized-images)
+* [Next css](https://www.npmjs.com/package/@zeit/next-css)
+* [Bundle analyzer](https://www.npmjs.com/package/webpack-bundle-analyzer)
 
 <a name="expressmidware"/>
 

@@ -57,6 +57,7 @@ A list of articles and other resources for reference as I discover them.
 * [Styled System](https://github.com/jxnblk/styled-system/blob/master/docs/getting-started.md)
 * [YUP JS Objcet validation](https://github.com/jquense/yup)
 * [Isomorphic unfetch (More compact than axios)](https://github.com/developit/unfetch)
+* [Popmotion Pose](https://popmotion.io/pose/)
 
 <a name="reacttools"/>
 

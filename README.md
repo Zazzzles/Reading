@@ -205,3 +205,4 @@ A list of articles and other resources for reference as I discover them.
 * [A simple guide to ES6 iterators](https://codeburst.io/a-simple-guide-to-es6-iterators-in-javascript-with-examples-189d052c3d8e)
 * [The react handbook](https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795)
 * [From java to javascript](https://medium.com/@reime005/from-java-to-javascript-callback-and-promise-cc9c0d8be304)
+* [Stop talking and start listening](https://medium.com/@docix/stop-talking-and-start-listening-bc6cf28d89f2)

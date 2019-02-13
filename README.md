@@ -97,6 +97,7 @@ A list of articles and other resources for reference as I discover them.
 * [Free stock images](https://www.pexels.com)
 * [More free stock images](https://pixabay.com)
 * [SVG Cheatsheet](https://learn-the-web.algonquindesign.ca/topics/svg-cheat-sheet/)
+* [Easy contact us email submission](https://formspree.io/)
 
 <a name="design"/>
 

@@ -209,3 +209,4 @@ A list of articles and other resources for reference as I discover them.
 * [From java to javascript](https://medium.com/@reime005/from-java-to-javascript-callback-and-promise-cc9c0d8be304)
 * [Stop talking and start listening](https://medium.com/@docix/stop-talking-and-start-listening-bc6cf28d89f2)
 * [The reddit API and how to scrape it](https://medium.com/@josa5420/reddit-api-3f9b67c38f19)
+* [Javascript class properties](https://medium.com/@mattburgess/javascript-shinies-class-properties-5e3a7f45ecfb)

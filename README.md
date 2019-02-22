@@ -144,6 +144,7 @@ A list of articles and other resources for reference as I discover them.
 * [Deply next js apps with Heroku](https://medium.com/@jacoboakley/deploy-a-next-js-app-on-heroku-69bcb01db1b7)
 * [Circle CI with github](https://github.com/marketplace/circleci)
 * [Architecting your React app](https://blog.usejournal.com/architecting-your-react-application-5af9cd65a891)
+* [Make react fast](https://houssein.me/progressive-react)
 
 <a name="articles"/>
 

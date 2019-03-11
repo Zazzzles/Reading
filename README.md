@@ -212,3 +212,4 @@ A list of articles and other resources for reference as I discover them.
 * [Stop talking and start listening](https://medium.com/@docix/stop-talking-and-start-listening-bc6cf28d89f2)
 * [The reddit API and how to scrape it](https://medium.com/@josa5420/reddit-api-3f9b67c38f19)
 * [Javascript class properties](https://medium.com/@mattburgess/javascript-shinies-class-properties-5e3a7f45ecfb)
+* [Rough design up front](https://medium.com/span-digital-insights/rough-design-up-front-a071836f5658)

@@ -65,7 +65,7 @@ A list of articles and other resources for reference as I discover them.
 ### React.js tools ###
 
 * [Instant free deployment](https://surge.sh/)
-
+* [Soutem Ui Kit](https://shoutem.github.io/docs/ui-toolkit/animation/introduction)
 <a name="nextresources"/>
 
 ### Next.js resources ###

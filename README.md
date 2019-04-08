@@ -215,3 +215,4 @@ A list of articles and other resources for reference as I discover them.
 * [Rough design up front](https://medium.com/span-digital-insights/rough-design-up-front-a071836f5658)
 * [The many names of javascript](https://medium.com/@PurpleGreenLemon/the-many-names-of-javascript-livescript-jscript-ecmascript-es6-and-not-still-java-568b584a91b5)
 * [The lifecycle of mobile machine learning](https://heartbeat.fritz.ai/the-lifecycle-of-mobile-machine-learning-models-759bff75ec3f)
+* [Native image lazy loading for the web](https://addyosmani.com/blog/lazy-loading/)

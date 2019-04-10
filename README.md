@@ -216,3 +216,4 @@ A list of articles and other resources for reference as I discover them.
 * [The many names of javascript](https://medium.com/@PurpleGreenLemon/the-many-names-of-javascript-livescript-jscript-ecmascript-es6-and-not-still-java-568b584a91b5)
 * [The lifecycle of mobile machine learning](https://heartbeat.fritz.ai/the-lifecycle-of-mobile-machine-learning-models-759bff75ec3f)
 * [Native image lazy loading for the web](https://addyosmani.com/blog/lazy-loading/)
+* [Using regular expressions to analyze DNA with python](https://towardsdatascience.com/using-regular-expression-in-genetics-with-python-175e2b9395c2)

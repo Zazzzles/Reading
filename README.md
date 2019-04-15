@@ -218,3 +218,4 @@ A list of articles and other resources for reference as I discover them.
 * [Native image lazy loading for the web](https://addyosmani.com/blog/lazy-loading/)
 * [Using regular expressions to analyze DNA with python](https://towardsdatascience.com/using-regular-expression-in-genetics-with-python-175e2b9395c2)
 * [Declarative vs imperative programming](https://codeburst.io/declarative-vs-imperative-programming-a8a7c93d9ad2)
+* [The principles of REST](https://medium.com/@emailbivas/the-principles-of-rest-6b00deac91b3)

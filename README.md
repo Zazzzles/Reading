@@ -220,3 +220,4 @@ A list of articles and other resources for reference as I discover them.
 * [Declarative vs imperative programming](https://codeburst.io/declarative-vs-imperative-programming-a8a7c93d9ad2)
 * [The principles of REST](https://medium.com/@emailbivas/the-principles-of-rest-6b00deac91b3)
 * [The junior developer's guide to writing clean code](https://medium.freecodecamp.org/the-junior-developers-guide-to-writing-super-clean-and-readable-code-cd2568e08aae)
+* [Design patterns in modern javascript](https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca)

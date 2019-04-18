@@ -100,6 +100,7 @@ A list of articles and other resources for reference as I discover them.
 * [SVG Cheatsheet](https://learn-the-web.algonquindesign.ca/topics/svg-cheat-sheet/)
 * [Easy contact us email submission](https://formspree.io/)
 * [Android asset studio](https://romannurik.github.io/AndroidAssetStudio)
+* [NPM Trends](https://www.npmtrends.com)
 
 <a name="design"/>
 

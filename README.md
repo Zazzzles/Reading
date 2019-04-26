@@ -224,3 +224,4 @@ A list of articles and other resources for reference as I discover them.
 * [Design patterns in modern javascript](https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca)
 * [Design patterns book](http://wiki.c2.com/?DesignPatternsBook)
 * [How to be a great programmer](https://medium.freecodecamp.org/how-to-be-a-great-programmer-34939494996d)
+* [Frontend Case studies](https://github.com/andrew--r/frontend-case-studies)

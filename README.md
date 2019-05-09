@@ -102,6 +102,7 @@ A list of articles and other resources for reference as I discover them.
 * [Android asset studio](https://romannurik.github.io/AndroidAssetStudio)
 * [NPM Trends](https://www.npmtrends.com)
 * [Readme maker](https://www.makeareadme.com/)
+* [Copy & paste CSS effects](https://cssfx.dev/)
 
 <a name="design"/>
 

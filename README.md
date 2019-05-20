@@ -229,3 +229,4 @@ A list of articles and other resources for reference as I discover them.
 * [How to be a great programmer](https://medium.freecodecamp.org/how-to-be-a-great-programmer-34939494996d)
 * [Frontend Case studies](https://github.com/andrew--r/frontend-case-studies)
 * [Functional-ish javascript](https://medium.com/@bluepnume/functional-ish-javascript-205c05d0ed08)
+* [Collision detection on polygons](http://www.jeffreythompson.org/collision-detection/poly-point.php)

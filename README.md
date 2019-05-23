@@ -104,6 +104,7 @@ A list of articles and other resources for reference as I discover them.
 * [Readme maker](https://www.makeareadme.com/)
 * [Copy & paste CSS effects](https://cssfx.dev/)
 * [Create and use custom map styles](https://www.mapbox.com/)
+* [Hidden environemnt vars for React.js](https://www.npmjs.com/package/dotenv)
 
 <a name="design"/>
 

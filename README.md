@@ -235,3 +235,4 @@ A list of articles and other resources for reference as I discover them.
 * [Functional-ish javascript](https://medium.com/@bluepnume/functional-ish-javascript-205c05d0ed08)
 * [Collision detection on polygons](http://www.jeffreythompson.org/collision-detection/poly-point.php)
 * [Saying no to writing more code](https://medium.freecodecamp.org/the-most-important-skill-a-programmer-can-learn-9d410c786baf)
+* [Animating with canvas](https://codular.com/animation-with-html5-canvas)

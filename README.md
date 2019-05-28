@@ -135,6 +135,7 @@ A list of articles and other resources for reference as I discover them.
 * [Understanding async javascript](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff)
 * [1997 ECMA script documentation PDF](http://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262,%201st%20edition,%20June%201997.pdf)
 * [Copy to clipboard programatically](https://www.w3schools.com/howto/howto_js_copy_clipboard.asp)
+* [Javascript clean code](https://devinduct.com/blogpost/22/javascript-clean-code-best-practices)
 
 
 <a name="testing"/>

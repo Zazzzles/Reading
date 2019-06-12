@@ -118,6 +118,7 @@ A list of articles and other resources for reference as I discover them.
 * [MDL Type system](https://material.io/design/typography/the-type-system.html#type-scale)
 * [8px spacing system](https://spec.fm/specifics/8-pt-grid)
 * [7 Practical desgin tips](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
+* [Material UI](https://material-ui.com/)
 
 <a name="js"/>
 

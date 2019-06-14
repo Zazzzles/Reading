@@ -120,6 +120,7 @@ A list of articles and other resources for reference as I discover them.
 * [7 Practical desgin tips](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 * [Material UI](https://material-ui.com/)
 * [Design resources](https://muchkler.github.io/designHub/)
+* [Free SVG illustrations](https://undraw.co/illustrations)
 
 <a name="js"/>
 

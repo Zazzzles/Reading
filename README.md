@@ -60,6 +60,7 @@ A list of articles and other resources for reference as I discover them.
 * [Isomorphic unfetch (More compact than axios)](https://github.com/developit/unfetch)
 * [Popmotion Pose](https://popmotion.io/pose/)
 * [Canvas animation](http://fabricjs.com/)
+* [Canvas entity manipulation](http://fabricjs.com/)
 
 <a name="reacttools"/>
 

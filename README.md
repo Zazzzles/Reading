@@ -244,3 +244,4 @@ A list of articles and other resources for reference as I discover them.
 * [Saying no to writing more code](https://medium.freecodecamp.org/the-most-important-skill-a-programmer-can-learn-9d410c786baf)
 * [Animating with canvas](https://codular.com/animation-with-html5-canvas)
 * [Setting up docker with express server](https://nodejs.org/de/docs/guides/nodejs-docker-webapp/)
+* [What is style in coding](https://medium.com/@postbio/style-in-code-840067b73a99)

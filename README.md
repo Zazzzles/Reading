@@ -245,3 +245,5 @@ A list of articles and other resources for reference as I discover them.
 * [Animating with canvas](https://codular.com/animation-with-html5-canvas)
 * [Setting up docker with express server](https://nodejs.org/de/docs/guides/nodejs-docker-webapp/)
 * [What is style in coding](https://medium.com/@postbio/style-in-code-840067b73a99)
+* [Running tasks in background mode React Native](https://blog.expo.io/how-to-run-background-tasks-in-react-native-e1619acef48f)
+* [Background tasks every 15 mins](https://hackernoon.com/easy-os-background-tasks-in-react-native-bc4476c48b8a)

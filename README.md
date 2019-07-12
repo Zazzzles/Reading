@@ -46,6 +46,7 @@ A list of articles and other resources for reference as I discover them.
 * [React native filesystem](https://github.com/itinance/react-native-fs)
 * [Material dropdown](https://www.npmjs.com/package/react-native-material-dropdown)
 * [Bluetooth lib](https://polidea.github.io/react-native-ble-plx/)
+* [How to enable Hermes engine](https://facebook.github.io/react-native/docs/hermes)
 
 <a name="reactlib"/>
 

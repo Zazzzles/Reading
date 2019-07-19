@@ -143,6 +143,7 @@ A list of articles and other resources for reference as I discover them.
 * [1997 ECMA script documentation PDF](http://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262,%201st%20edition,%20June%201997.pdf)
 * [Copy to clipboard programatically](https://www.w3schools.com/howto/howto_js_copy_clipboard.asp)
 * [Javascript clean code](https://devinduct.com/blogpost/22/javascript-clean-code-best-practices)
+* [FeatherJS realtime API framework](https://feathersjs.com/)
 
 
 <a name="testing"/>

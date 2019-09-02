@@ -252,3 +252,4 @@ A list of articles and other resources for reference as I discover them.
 * [Running tasks in background mode React Native](https://blog.expo.io/how-to-run-background-tasks-in-react-native-e1619acef48f)
 * [Background tasks every 15 mins](https://hackernoon.com/easy-os-background-tasks-in-react-native-bc4476c48b8a)
 * [Setting up typescript with react native](https://medium.com/@jan.hesters/using-typescript-with-react-native-946aa4b4ae6f)
+* [Typescript cheat sheet](https://devhints.io/typescript)

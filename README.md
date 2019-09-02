@@ -251,5 +251,5 @@ A list of articles and other resources for reference as I discover them.
 * [What is style in coding](https://medium.com/@postbio/style-in-code-840067b73a99)
 * [Running tasks in background mode React Native](https://blog.expo.io/how-to-run-background-tasks-in-react-native-e1619acef48f)
 * [Background tasks every 15 mins](https://hackernoon.com/easy-os-background-tasks-in-react-native-bc4476c48b8a)
-* [Setting up typescript with react native](https://medium.com/@jan.hesters/using-typescript-with-react-native-946aa4b4ae6f)
+* [Setting up typescript with react native](https://facebook.github.io/react-native/blog/2018/05/07/using-typescript-with-react-native)
 * [Typescript cheat sheet](https://devhints.io/typescript)

@@ -253,3 +253,4 @@ A list of articles and other resources for reference as I discover them.
 * [Background tasks every 15 mins](https://hackernoon.com/easy-os-background-tasks-in-react-native-bc4476c48b8a)
 * [Setting up typescript with react native](https://facebook.github.io/react-native/blog/2018/05/07/using-typescript-with-react-native)
 * [Typescript cheat sheet](https://devhints.io/typescript)
+* [Building a react component library](https://medium.com/better-programming/lets-build-react-components-library-part-3-b2e7aec478a2)

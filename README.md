@@ -255,4 +255,5 @@ A list of articles and other resources for reference as I discover them.
 * [Typescript cheat sheet](https://devhints.io/typescript)
 * [Building a react component library](https://medium.com/better-programming/lets-build-react-components-library-part-3-b2e7aec478a2)
 * [When and how to use typescript in your React app](https://blog.bitsrc.io/why-and-how-use-typescript-in-your-react-app-60e8987be8de)
-* [MobX](https://mobx.js.org/getting-started.html)
+* [MobX Application state management](https://mobx.js.org/getting-started.html)
+* [Adding Typescript to your react app](https://www.pluralsight.com/guides/typescript-react-getting-started)

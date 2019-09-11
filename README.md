@@ -257,3 +257,4 @@ A list of articles and other resources for reference as I discover them.
 * [When and how to use typescript in your React app](https://blog.bitsrc.io/why-and-how-use-typescript-in-your-react-app-60e8987be8de)
 * [MobX Application state management](https://mobx.js.org/getting-started.html)
 * [Adding Typescript to your react app](https://www.pluralsight.com/guides/typescript-react-getting-started)
+* [What is Deno and how is it different from node.js](https://blog.logrocket.com/what-is-deno/)

@@ -260,3 +260,4 @@ A list of articles and other resources for reference as I discover them.
 * [What is Deno and how is it different from node.js](https://blog.logrocket.com/what-is-deno/)
 * [Javascript's event loop explained](https://medium.com/front-end-weekly/javascript-event-loop-explained-4cd26af121d4)
 * [Socket.io with react native](https://riptutorial.com/react-native/example/29846/web-socket-with-socket-io)
+* [OGC sensorthings API](file:///Users/rasbrits/Downloads/18-056__OGC_STA_Tasking_Core_Engineering_Report.pdf)

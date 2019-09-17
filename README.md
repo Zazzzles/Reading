@@ -47,6 +47,8 @@ A list of articles and other resources for reference as I discover them.
 * [Material dropdown](https://www.npmjs.com/package/react-native-material-dropdown)
 * [Bluetooth lib](https://polidea.github.io/react-native-ble-plx/)
 * [How to enable Hermes engine](https://facebook.github.io/react-native/docs/hermes)
+* [Socket.io with react native](https://riptutorial.com/react-native/example/29846/web-socket-with-socket-io)
+* [Setting up typescript with react native](https://facebook.github.io/react-native/blog/2018/05/07/using-typescript-with-react-native)
 
 <a name="reactlib"/>
 
@@ -144,6 +146,7 @@ A list of articles and other resources for reference as I discover them.
 * [Copy to clipboard programatically](https://www.w3schools.com/howto/howto_js_copy_clipboard.asp)
 * [Javascript clean code](https://devinduct.com/blogpost/22/javascript-clean-code-best-practices)
 * [FeatherJS realtime API framework](https://feathersjs.com/)
+* [Composition vs inheritance](https://medium.com/humans-create-software/composition-over-inheritance-cb6f88070205)
 
 
 <a name="testing"/>
@@ -251,7 +254,6 @@ A list of articles and other resources for reference as I discover them.
 * [What is style in coding](https://medium.com/@postbio/style-in-code-840067b73a99)
 * [Running tasks in background mode React Native](https://blog.expo.io/how-to-run-background-tasks-in-react-native-e1619acef48f)
 * [Background tasks every 15 mins](https://hackernoon.com/easy-os-background-tasks-in-react-native-bc4476c48b8a)
-* [Setting up typescript with react native](https://facebook.github.io/react-native/blog/2018/05/07/using-typescript-with-react-native)
 * [Typescript cheat sheet](https://devhints.io/typescript)
 * [Building a react component library](https://medium.com/better-programming/lets-build-react-components-library-part-3-b2e7aec478a2)
 * [When and how to use typescript in your React app](https://blog.bitsrc.io/why-and-how-use-typescript-in-your-react-app-60e8987be8de)
@@ -259,6 +261,5 @@ A list of articles and other resources for reference as I discover them.
 * [Adding Typescript to your react app](https://www.pluralsight.com/guides/typescript-react-getting-started)
 * [What is Deno and how is it different from node.js](https://blog.logrocket.com/what-is-deno/)
 * [Javascript's event loop explained](https://medium.com/front-end-weekly/javascript-event-loop-explained-4cd26af121d4)
-* [Socket.io with react native](https://riptutorial.com/react-native/example/29846/web-socket-with-socket-io)
 * [OGC sensorthings API](file:///Users/rasbrits/Downloads/18-056__OGC_STA_Tasking_Core_Engineering_Report.pdf)
-* [Composition vs inheritance](https://medium.com/humans-create-software/composition-over-inheritance-cb6f88070205)
+

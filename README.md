@@ -264,4 +264,5 @@ A list of articles and other resources for reference as I discover them.
 * [OGC sensorthings API](file:///Users/rasbrits/Downloads/18-056__OGC_STA_Tasking_Core_Engineering_Report.pdf)
 * [React styling best practices](https://medium.com/the-non-traditional-developer/styling-best-practices-using-react-c37b96b8be9c)
 * [Using refs in react](https://www.fullstackreact.com/articles/using-refs-in-react/)
+* [5 common react mistakes](https://www.10000ft.com/blog/5-common-react-mistakes-remedies)
 

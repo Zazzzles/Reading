@@ -168,6 +168,7 @@ A list of articles and other resources for reference as I discover them.
 * [Architecting your React app](https://blog.usejournal.com/architecting-your-react-application-5af9cd65a891)
 * [Make react fast](https://houssein.me/progressive-react)
 * [Auth0 Client credentials flow](https://auth0.com/docs/flows/concepts/client-credentials)
+* [Storybook UI component management](https://storybook.js.org/)
 
 <a name="articles"/>
 

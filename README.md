@@ -267,3 +267,4 @@ A list of articles and other resources for reference as I discover them.
 * [Using refs in react](https://www.fullstackreact.com/articles/using-refs-in-react/)
 * [5 common react mistakes](https://www.10000ft.com/blog/5-common-react-mistakes-remedies)
 * [Introduction to design systems for developers](https://www.learnstorybook.com/design-systems-for-developers/react/en/introduction/)
+* [React redux for beginners](https://medium.com/javascript-in-plain-english/react-redux-for-beginners-d51b46cb6d58)

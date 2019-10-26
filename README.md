@@ -268,3 +268,4 @@ A list of articles and other resources for reference as I discover them.
 * [Introduction to design systems for developers](https://www.learnstorybook.com/design-systems-for-developers/react/en/introduction/)
 * [React redux for beginners](https://medium.com/javascript-in-plain-english/react-redux-for-beginners-d51b46cb6d58)
 * [Learn d3.js in 5 minutes](https://www.freecodecamp.org/news/learn-d3-js-in-5-minutes-c5ec29fb0725/)
+* [Structuring react projects](https://hackernoon.com/structuring-projects-and-naming-components-in-react-1261b6e18d76)

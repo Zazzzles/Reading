@@ -65,6 +65,7 @@ A list of articles and other resources for reference as I discover them.
 * [Canvas animation](http://fabricjs.com/)
 * [Canvas entity manipulation](http://fabricjs.com/)
 * [Powerful charting library](http://recharts.org/en-US/api)
+* [ChartsJS open source charting library](https://www.chartjs.org/)
 
 <a name="reacttools"/>
 

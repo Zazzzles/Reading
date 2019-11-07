@@ -272,3 +272,4 @@ A list of articles and other resources for reference as I discover them.
 * [Learn d3.js in 5 minutes](https://www.freecodecamp.org/news/learn-d3-js-in-5-minutes-c5ec29fb0725/)
 * [Structuring react projects](https://hackernoon.com/structuring-projects-and-naming-components-in-react-1261b6e18d76)
 * [Choosing a data visualization library](https://hackernoon.com/choosing-a-data-visualization-library-for-react-444263a41f98)
+* [Common javascript mistakes](https://medium.com/better-programming/common-javascript-mistakes-part-2-e84b60371489)

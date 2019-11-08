@@ -128,6 +128,7 @@ A list of articles and other resources for reference as I discover them.
 * [Material UI](https://material-ui.com/)
 * [Design resources](https://muchkler.github.io/designHub/)
 * [Free SVG illustrations](https://undraw.co/illustrations)
+* [More free SVG illustrations](https://www.glazestock.com/)
 * [Design inspiration](https://uimovement.com/)
 
 <a name="js"/>

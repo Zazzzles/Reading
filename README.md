@@ -276,3 +276,4 @@ A list of articles and other resources for reference as I discover them.
 * [Choosing a data visualization library](https://hackernoon.com/choosing-a-data-visualization-library-for-react-444263a41f98)
 * [Common javascript mistakes](https://medium.com/better-programming/common-javascript-mistakes-part-2-e84b60371489)
 * [Improving react context performance](https://medium.com/@leonardobrunolima/react-tips-context-api-performance-considerations-d964f3ad3087)
+* [JS modile cheatsheet](https://medium.com/dailyjs/javascript-module-cheatsheet-7bd474f1d829)

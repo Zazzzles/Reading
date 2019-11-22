@@ -116,6 +116,7 @@ A list of articles and other resources for reference as I discover them.
 * [Hidden environemnt vars for React.js](https://www.npmjs.com/package/dotenv)
 * [D3 graph gallery](https://www.d3-graph-gallery.com/)
 * [Measure website performance](https://web.dev/measure/)
+* [Css gradient maker](https://cssgradient.io/)
 
 <a name="design"/>
 

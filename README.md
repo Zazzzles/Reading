@@ -278,3 +278,5 @@ A list of articles and other resources for reference as I discover them.
 * [Common javascript mistakes](https://medium.com/better-programming/common-javascript-mistakes-part-2-e84b60371489)
 * [Improving react context performance](https://medium.com/@leonardobrunolima/react-tips-context-api-performance-considerations-d964f3ad3087)
 * [JS modile cheatsheet](https://medium.com/dailyjs/javascript-module-cheatsheet-7bd474f1d829)
+* [Avoiding common pitfalls with react](https://www.freecodecamp.org/news/how-to-work-with-react-the-right-way-to-avoid-some-common-pitfalls-fc9eb5e34d9e/)
+* [Stopping memmory leaks in react](https://egghead.io/lessons/react-stop-memory-leaks-with-componentwillunmount-lifecycle-method-in-react)

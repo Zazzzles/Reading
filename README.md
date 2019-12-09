@@ -66,6 +66,7 @@ A list of articles and other resources for reference as I discover them.
 * [Canvas entity manipulation](http://fabricjs.com/)
 * [Powerful charting library](http://recharts.org/en-US/api)
 * [ChartsJS open source charting library](https://www.chartjs.org/)
+* [Framer motion, new version of pop motion animations for react](https://www.framer.com/motion/)
 
 <a name="reacttools"/>
 

@@ -17,6 +17,7 @@ A list of articles and other resources for reference as I discover them.
 * [Testing](#testing) 📋
 * [Big apps for the real world](#bigapps) 🏭
 * [Websites that look good](#websites) 📇
+* [Dope fonts](#fonts) 📇
 * [Articles](#articles) 📇
 
 
@@ -180,12 +181,20 @@ A list of articles and other resources for reference as I discover them.
 
 <a name="websites"/>
 
-### Websites that look goood ###
+### Websites that look good ###
 
 * [Byte orbit](https://byteorbit.com/)
 * [Firebase](https://firebase.google.com/)
 * [Google Pixel](https://store.google.com/us/product/pixel_4?hl=en-US)
 * [Google slate](https://store.google.com/us/product/pixel_slate?hl=en-US)
+
+<a name="fonts"/>
+
+### Dope fonts ###
+
+* [Cabin](https://fonts.google.com/specimen/Cabin)
+* [Poppins](https://fonts.google.com/specimen/Poppins)
+* [Muli](https://fonts.google.com/specimen/Muli)
 
 <a name="articles"/>
 

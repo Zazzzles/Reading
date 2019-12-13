@@ -16,8 +16,8 @@ A list of articles and other resources for reference as I discover them.
 * [Javascript](#js) ✨
 * [Testing](#testing) 📋
 * [Big apps for the real world](#bigapps) 🏭
-* [Websites that look good](#websites) 📇
-* [Dope fonts](#fonts) 📇
+* [Websites that look good](#websites) :computer:
+* [Dope fonts](#fonts) :black_nib:
 * [Articles](#articles) 📇
 
 

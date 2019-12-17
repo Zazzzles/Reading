@@ -197,6 +197,9 @@ A list of articles and other resources for reference as I discover them.
 * [Cabin](https://fonts.google.com/specimen/Cabin)
 * [Poppins](https://fonts.google.com/specimen/Poppins)
 * [Muli](https://fonts.google.com/specimen/Muli)
+* [Raleway](https://fonts.google.com/specimen/Raleway)
+* [Open sans](https://fonts.google.com/specimen/Open+Sans)
+* [Roboto](https://fonts.google.com/specimen/Roboto)
 
 <a name="articles"/>
 

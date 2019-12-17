@@ -156,6 +156,7 @@ A list of articles and other resources for reference as I discover them.
 * [Javascript clean code](https://devinduct.com/blogpost/22/javascript-clean-code-best-practices)
 * [FeatherJS realtime API framework](https://feathersjs.com/)
 * [Composition vs inheritance](https://medium.com/humans-create-software/composition-over-inheritance-cb6f88070205)
+* [Optional chaining](https://www.stefanjudis.com/today-i-learned/optional-chaining-helps-to-avoid-undefined-is-not-a-function-exceptions/)
 
 
 <a name="testing"/>

@@ -121,7 +121,6 @@ A list of articles and other resources for reference as I discover them.
 * [D3 graph gallery](https://www.d3-graph-gallery.com/)
 * [Measure website performance](https://web.dev/measure/)
 * [Css gradient maker](https://cssgradient.io/)
-* [Abstract background elements](https://www.freepik.com/search?page=2&query=abstract+background)
 
 <a name="design"/>
 
@@ -137,6 +136,7 @@ A list of articles and other resources for reference as I discover them.
 * [Free SVG illustrations](https://undraw.co/illustrations)
 * [More free SVG illustrations](https://www.glazestock.com/)
 * [Design inspiration](https://uimovement.com/)
+* [Abstract background elements](https://www.freepik.com/search?page=2&query=abstract+background)
 
 <a name="js"/>
 

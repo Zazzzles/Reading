@@ -69,6 +69,7 @@ A list of articles and other resources for reference as I discover them.
 * [Powerful charting library](http://recharts.org/en-US/api)
 * [ChartsJS open source charting library](https://www.chartjs.org/)
 * [Framer motion, new version of pop motion animations for react](https://www.framer.com/motion/)
+* [FTP Deploy](https://www.npmjs.com/package/ftp-deploy)
 
 <a name="reacttools"/>
 

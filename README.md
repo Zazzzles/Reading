@@ -308,3 +308,5 @@ A list of articles and other resources for reference as I discover them.
 * [Avoiding common pitfalls with react](https://www.freecodecamp.org/news/how-to-work-with-react-the-right-way-to-avoid-some-common-pitfalls-fc9eb5e34d9e/)
 * [Stopping memmory leaks in react](https://egghead.io/lessons/react-stop-memory-leaks-with-componentwillunmount-lifecycle-method-in-react)
 * [Creating a chrome extension with React](https://itnext.io/create-chrome-extension-with-reactjs-using-inject-page-strategy-137650de1f39)
+* [Chrome messaging API for extensions](https://itnext.io/create-chrome-extension-with-reactjs-using-inject-page-strategy-137650de1f39)
+* [React native vs Flutter](https://medium.com/javascript-in-plain-english/react-native-vs-flutter-a-comparison-from-real-project-experience-perspective-1e7fbd56f217)

@@ -181,6 +181,7 @@ A list of articles and other resources for reference as I discover them.
 * [Make react fast](https://houssein.me/progressive-react)
 * [Auth0 Client credentials flow](https://auth0.com/docs/flows/concepts/client-credentials)
 * [Storybook UI component management](https://storybook.js.org/)
+* [React performance checklist](https://houssein.me/progressive-react)
 
 <a name="websites"/>
 
@@ -312,3 +313,4 @@ A list of articles and other resources for reference as I discover them.
 * [Chrome messaging API for extensions](https://itnext.io/create-chrome-extension-with-reactjs-using-inject-page-strategy-137650de1f39)
 * [React native vs Flutter](https://medium.com/javascript-in-plain-english/react-native-vs-flutter-a-comparison-from-real-project-experience-perspective-1e7fbd56f217)
 * [Automate FTP deployments](https://medium.com/how-to-react/auto-deploy-your-build-folder-to-the-server-in-reactjs-4d095af3b33b)
+

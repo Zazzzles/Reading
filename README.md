@@ -81,6 +81,7 @@ A list of articles and other resources for reference as I discover them.
 * [Soutem Ui Kit](https://shoutem.github.io/docs/ui-toolkit/animation/introduction)
 * [Cloudinary upload API](https://cloudinary.com/documentation/react_integration)
 * [React memmory usage for detecting memmory leaks](https://github.com/lloyd/node-memwatch)
+* [Gatsby.js](https://www.gatsbyjs.org/)
 
 <a name="nextresources"/>
 

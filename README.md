@@ -9,6 +9,7 @@ A list of articles and other resources for reference as I discover them.
 * [React native libraries](#rnlib) 📚
 * [React libraries](#reactlib) 📚
 * [React.js tools](#reacttools) 🔧  
+* [Gatsby plugins](#gatsby) 🔧
 * [Next.js resources](#nextresources) 📑    
 * [Express middleware](#expressmidware) 🔩 
 * [Online tools](#onlinetools) 🔧 
@@ -82,6 +83,12 @@ A list of articles and other resources for reference as I discover them.
 * [Cloudinary upload API](https://cloudinary.com/documentation/react_integration)
 * [React memmory usage for detecting memmory leaks](https://github.com/lloyd/node-memwatch)
 * [Gatsby.js](https://www.gatsbyjs.org/)
+
+<a name="gatsby">
+  
+### Gatsby plugins ###
+
+* [Page transitions](https://www.gatsbyjs.org/packages/gatsby-plugin-transition-link/)
 
 <a name="nextresources"/>
 

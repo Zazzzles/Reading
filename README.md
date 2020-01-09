@@ -70,6 +70,8 @@ A list of articles and other resources for reference as I discover them.
 * [ChartsJS open source charting library](https://www.chartjs.org/)
 * [Framer motion, new version of pop motion animations for react](https://www.framer.com/motion/)
 * [FTP Deploy](https://www.npmjs.com/package/ftp-deploy)
+* [Browser animations](https://animejs.com/documentation/#JSobjProp)
+* [Transition Animations](https://transitionlink.tylerbarnes.ca/docs/anilink/)
 
 <a name="reacttools"/>
 
@@ -138,6 +140,7 @@ A list of articles and other resources for reference as I discover them.
 * [More free SVG illustrations](https://www.glazestock.com/)
 * [Design inspiration](https://uimovement.com/)
 * [Abstract background elements](https://www.freepik.com/search?page=2&query=abstract+background)
+* [Animation inspiration](https://tympanus.net/codrops/)
 
 <a name="js"/>
 

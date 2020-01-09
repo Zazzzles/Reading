@@ -52,6 +52,7 @@ A list of articles and other resources for reference as I discover them.
 * [How to enable Hermes engine](https://facebook.github.io/react-native/docs/hermes)
 * [Socket.io with react native](https://riptutorial.com/react-native/example/29846/web-socket-with-socket-io)
 * [Setting up typescript with react native](https://facebook.github.io/react-native/blog/2018/05/07/using-typescript-with-react-native)
+* [AR for react native](https://marmelab.com/blog/2019/04/25/react-native-augmented-reality.html)
 
 <a name="reactlib"/>
 

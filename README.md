@@ -133,6 +133,7 @@ A list of articles and other resources for reference as I discover them.
 * [D3 graph gallery](https://www.d3-graph-gallery.com/)
 * [Measure website performance](https://web.dev/measure/)
 * [Css gradient maker](https://cssgradient.io/)
+* [Chart js configurator](https://livegap.com/charts/chart.js/app.php)
 
 <a name="design"/>
 

@@ -328,4 +328,5 @@ A list of articles and other resources for reference as I discover them.
 * [React native vs Flutter](https://medium.com/javascript-in-plain-english/react-native-vs-flutter-a-comparison-from-real-project-experience-perspective-1e7fbd56f217)
 * [Automate FTP deployments](https://medium.com/how-to-react/auto-deploy-your-build-folder-to-the-server-in-reactjs-4d095af3b33b)
 * [Gatsby vs Next](https://dev.to/jameesy/gatsby-vs-next-js-what-why-and-when-4al5)
+* [What is a Thunk](https://daveceddia.com/what-is-a-thunk/)
 

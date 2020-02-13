@@ -330,4 +330,4 @@ A list of articles and other resources for reference as I discover them.
 * [Gatsby vs Next](https://dev.to/jameesy/gatsby-vs-next-js-what-why-and-when-4al5)
 * [What is a Thunk](https://daveceddia.com/what-is-a-thunk/)
 * [Caching best practices](https://jakearchibald.com/2016/caching-best-practices/)
-
+* [Access token handling with Redux](https://nmajor.com/posts/access-and-refresh-token-handling-with-redux)

@@ -53,6 +53,7 @@ A list of articles and other resources for reference as I discover them.
 * [Socket.io with react native](https://riptutorial.com/react-native/example/29846/web-socket-with-socket-io)
 * [Setting up typescript with react native](https://facebook.github.io/react-native/blog/2018/05/07/using-typescript-with-react-native)
 * [AR for react native](https://marmelab.com/blog/2019/04/25/react-native-augmented-reality.html)
+* [In app purchases for React Native Apps](https://www.npmjs.com/package/react-native-iap)
 
 <a name="reactlib"/>
 
@@ -331,3 +332,4 @@ A list of articles and other resources for reference as I discover them.
 * [What is a Thunk](https://daveceddia.com/what-is-a-thunk/)
 * [Caching best practices](https://jakearchibald.com/2016/caching-best-practices/)
 * [Access token handling with Redux](https://nmajor.com/posts/access-and-refresh-token-handling-with-redux)
+* [Implementing in app purchases with React-Native](https://medium.com/@abhayg772/implementing-in-app-purchase-in-react-native-application-3798ca2de5bb)

@@ -333,3 +333,4 @@ A list of articles and other resources for reference as I discover them.
 * [Caching best practices](https://jakearchibald.com/2016/caching-best-practices/)
 * [Access token handling with Redux](https://nmajor.com/posts/access-and-refresh-token-handling-with-redux)
 * [Implementing in app purchases with React-Native](https://medium.com/@abhayg772/implementing-in-app-purchase-in-react-native-application-3798ca2de5bb)
+* [Testing google play billing](https://developer.android.com/google/play/billing/billing_testing)

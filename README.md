@@ -196,6 +196,7 @@ A list of articles and other resources for reference as I discover them.
 * [Auth0 Client credentials flow](https://auth0.com/docs/flows/concepts/client-credentials)
 * [Storybook UI component management](https://storybook.js.org/)
 * [React performance checklist](https://houssein.me/progressive-react)
+* [Strapi CMS](https://headlesscms.org/projects/strapi/)
 
 <a name="websites"/>
 

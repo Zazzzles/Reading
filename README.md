@@ -8,12 +8,13 @@ A list of articles and other resources for reference as I discover them.
 * [Firebase](#firebase) 🔥
 * [React native libraries](#rnlib) 📚
 * [React libraries](#reactlib) 📚
-* [React.js tools](#reacttools) 🔧  
+* [Tools](#tools) 🔧  
 * [Gatsby plugins](#gatsby) 🔧
 * [Next.js resources](#nextresources) 📑    
 * [Express middleware](#expressmidware) 🔩 
 * [Online tools](#onlinetools) 🔧 
 * [Design resources](#design) 🎨
+* [Frameworks](#frameworks) 🌐
 * [Javascript](#js) ✨
 * [Testing](#testing) 📋
 * [Big apps for the real world](#bigapps) 🏭
@@ -76,15 +77,14 @@ A list of articles and other resources for reference as I discover them.
 * [Browser animations](https://animejs.com/documentation/#JSobjProp)
 * [Transition Animations](https://transitionlink.tylerbarnes.ca/docs/anilink/)
 
-<a name="reacttools"/>
+<a name="tools"/>
 
-### React.js tools ###
+### Tools ###
 
 * [Instant free deployment](https://surge.sh/)
 * [Soutem Ui Kit](https://shoutem.github.io/docs/ui-toolkit/animation/introduction)
 * [Cloudinary upload API](https://cloudinary.com/documentation/react_integration)
-* [React memmory usage for detecting memmory leaks](https://github.com/lloyd/node-memwatch)
-* [Gatsby.js](https://www.gatsbyjs.org/)
+* [Memmory usage](https://github.com/lloyd/node-memwatch)
 
 <a name="gatsby">
   
@@ -153,6 +153,14 @@ A list of articles and other resources for reference as I discover them.
 * [Abstract background elements](https://www.freepik.com/search?page=2&query=abstract+background)
 * [Animation inspiration](https://tympanus.net/codrops/)
 
+<a name="frameworks"/>
+
+### Frameworks ###
+
+* [Svelte](https://svelte.dev/)
+* [Sapper for Svelte](https://sapper.svelte.dev/)
+* [Gatsby.js](https://www.gatsbyjs.org/)
+
 <a name="js"/>
 
 ### Javascript ###
@@ -182,6 +190,7 @@ A list of articles and other resources for reference as I discover them.
 * [Snapshot testing with Jest](https://jestjs.io/docs/en/snapshot-testing)
 * [Component testing with React](https://medium.freecodecamp.org/components-testing-in-react-what-and-how-to-test-with-jest-and-enzyme-7c1cace99de5)
 * [Component testing with Jest and Enzyme](https://medium.freecodecamp.org/components-testing-in-react-what-and-how-to-test-with-jest-and-enzyme-7c1cace99de5)
+* [Cypress](https://www.cypress.io/)
 
 <a name="bigapps"/>
 
@@ -197,6 +206,7 @@ A list of articles and other resources for reference as I discover them.
 * [Storybook UI component management](https://storybook.js.org/)
 * [React performance checklist](https://houssein.me/progressive-react)
 * [Strapi CMS](https://headlesscms.org/projects/strapi/)
+* [Rollup](https://rollupjs.org/guide/en/)
 
 <a name="websites"/>
 

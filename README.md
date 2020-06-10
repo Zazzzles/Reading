@@ -229,6 +229,7 @@ A list of articles and other resources for reference as I discover them.
 * [Raleway](https://fonts.google.com/specimen/Raleway)
 * [Open sans](https://fonts.google.com/specimen/Open+Sans)
 * [Roboto](https://fonts.google.com/specimen/Roboto)
+* [Gilroy](https://www.dafontfree.io/gilroy-font-family/)
 
 <a name="articles"/>
 

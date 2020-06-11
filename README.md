@@ -76,6 +76,7 @@ A list of articles and other resources for reference as I discover them.
 * [FTP Deploy](https://www.npmjs.com/package/ftp-deploy)
 * [Browser animations](https://animejs.com/documentation/#JSobjProp)
 * [Transition Animations](https://transitionlink.tylerbarnes.ca/docs/anilink/)
+* [Framer Motion](https://www.framer.com/motion/)
 
 <a name="tools"/>
 

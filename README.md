@@ -111,6 +111,7 @@ A list of articles and other resources for reference as I discover them.
 * [Compression](https://www.npmjs.com/package/compression)
 * [Hemlet for HTTP headers](https://www.npmjs.com/package/helmet)
 * [Morgan request logger](https://www.npmjs.com/package/morgan)
+* [Sirv CDN](https://sirv.com/)
 
 <a name="onlinetools"/>
 

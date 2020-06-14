@@ -10,6 +10,7 @@ A list of articles and other resources for reference as I discover them.
 * [React libraries](#reactlib) 📚
 * [Tools](#tools) 🔧  
 * [Gatsby plugins](#gatsby) 🔧
+* [Rollup plugins](#rollup)
 * [Next.js resources](#nextresources) 📑    
 * [Express middleware](#expressmidware) 🔩 
 * [Online tools](#onlinetools) 🔧 
@@ -91,6 +92,13 @@ A list of articles and other resources for reference as I discover them.
 ### Gatsby plugins ###
 
 * [Page transitions](https://www.gatsbyjs.org/packages/gatsby-plugin-transition-link/)
+
+<a name="rollup">
+  
+### Rollup plugins ###
+
+
+* [Useful plugins](https://github.com/rollup/plugins)
 
 <a name="nextresources"/>
 

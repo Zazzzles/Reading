@@ -86,6 +86,7 @@ A list of articles and other resources for reference as I discover them.
 * [Soutem Ui Kit](https://shoutem.github.io/docs/ui-toolkit/animation/introduction)
 * [Cloudinary upload API](https://cloudinary.com/documentation/react_integration)
 * [Memmory usage](https://github.com/lloyd/node-memwatch)
+* [Storybook component manager](https://storybook.js.org/)
 
 <a name="gatsby">
   
@@ -217,6 +218,7 @@ A list of articles and other resources for reference as I discover them.
 * [Strapi CMS](https://headlesscms.org/projects/strapi/)
 * [Rollup](https://rollupjs.org/guide/en/)
 * [Setting up continuous integration with Github Actions](https://help.github.com/en/actions/building-and-testing-code-with-continuous-integration/setting-up-continuous-integration-using-github-actions)
+* [Storybook component manager](https://storybook.js.org/)
 
 <a name="websites"/>
 

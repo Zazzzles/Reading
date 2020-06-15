@@ -359,3 +359,4 @@ A list of articles and other resources for reference as I discover them.
 * [Implementing in app purchases with React-Native](https://medium.com/@abhayg772/implementing-in-app-purchase-in-react-native-application-3798ca2de5bb)
 * [Testing google play billing](https://developer.android.com/google/play/billing/billing_testing)
 * [Setting up continuous integration with Github Actions](https://help.github.com/en/actions/building-and-testing-code-with-continuous-integration/setting-up-continuous-integration-using-github-actions)
+* [Understanding webpack](https://survivejs.com/webpack/preface/)

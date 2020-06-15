@@ -216,6 +216,7 @@ A list of articles and other resources for reference as I discover them.
 * [React performance checklist](https://houssein.me/progressive-react)
 * [Strapi CMS](https://headlesscms.org/projects/strapi/)
 * [Rollup](https://rollupjs.org/guide/en/)
+* [Setting up continuous integration with Github Actions](https://help.github.com/en/actions/building-and-testing-code-with-continuous-integration/setting-up-continuous-integration-using-github-actions)
 
 <a name="websites"/>
 
@@ -355,3 +356,4 @@ A list of articles and other resources for reference as I discover them.
 * [Access token handling with Redux](https://nmajor.com/posts/access-and-refresh-token-handling-with-redux)
 * [Implementing in app purchases with React-Native](https://medium.com/@abhayg772/implementing-in-app-purchase-in-react-native-application-3798ca2de5bb)
 * [Testing google play billing](https://developer.android.com/google/play/billing/billing_testing)
+* [Setting up continuous integration with Github Actions](https://help.github.com/en/actions/building-and-testing-code-with-continuous-integration/setting-up-continuous-integration-using-github-actions)

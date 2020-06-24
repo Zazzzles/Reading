@@ -360,3 +360,5 @@ A list of articles and other resources for reference as I discover them.
 * [Testing google play billing](https://developer.android.com/google/play/billing/billing_testing)
 * [Setting up continuous integration with Github Actions](https://help.github.com/en/actions/building-and-testing-code-with-continuous-integration/setting-up-continuous-integration-using-github-actions)
 * [Understanding webpack](https://survivejs.com/webpack/preface/)
+* [Making a chrome extension](https://thoughtbot.com/blog/how-to-make-a-chrome-extension)
+* [Stop sprinting and start shaping](https://www.youtube.com/watch?v=ns_i03epYD8)

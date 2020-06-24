@@ -362,3 +362,4 @@ A list of articles and other resources for reference as I discover them.
 * [Understanding webpack](https://survivejs.com/webpack/preface/)
 * [Making a chrome extension](https://thoughtbot.com/blog/how-to-make-a-chrome-extension)
 * [Stop sprinting and start shaping](https://www.youtube.com/watch?v=ns_i03epYD8)
+* [Avoid unnecesary re-renders for Redux connected components](https://stackoverflow.com/questions/53465166/how-to-avoid-re-render-in-react-redux-connected-component)

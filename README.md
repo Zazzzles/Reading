@@ -21,6 +21,7 @@ A list of articles and other resources for reference as I discover them.
 * [Big apps for the real world](#bigapps) 🏭
 * [Websites that look good](#websites) :computer:
 * [Dope fonts](#fonts) :black_nib:
+* [Videos](#videos) :tv:
 * [Articles](#articles) 📇
 
 
@@ -242,6 +243,13 @@ A list of articles and other resources for reference as I discover them.
 * [Open sans](https://fonts.google.com/specimen/Open+Sans)
 * [Roboto](https://fonts.google.com/specimen/Roboto)
 * [Gilroy](https://www.dafontfree.io/gilroy-font-family/)
+
+<a name="videos">
+
+### Videos ###
+
+* [A Treatise on state](https://www.youtube.com/watch?v=tBz3UmZG_bk)
+  
 
 <a name="articles"/>
 

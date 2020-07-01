@@ -78,6 +78,7 @@ A list of articles and other resources for reference as I discover them.
 * [FTP Deploy](https://www.npmjs.com/package/ftp-deploy)
 * [Browser animations](https://animejs.com/documentation/#JSobjProp)
 * [Transition Animations](https://transitionlink.tylerbarnes.ca/docs/anilink/)
+* [Apollo for graphql](https://www.apollographql.com/docs/react/)
 
 <a name="tools"/>
 
@@ -171,7 +172,6 @@ A list of articles and other resources for reference as I discover them.
 * [Svelte](https://svelte.dev/)
 * [Sapper for Svelte](https://sapper.svelte.dev/)
 * [Gatsby.js](https://www.gatsbyjs.org/)
-* [Apollo for graphql](https://www.apollographql.com/docs/react/)
 
 <a name="js"/>
 

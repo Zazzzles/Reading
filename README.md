@@ -165,6 +165,8 @@ A list of articles and other resources for reference as I discover them.
 * [Design inspiration](https://uimovement.com/)
 * [Abstract background elements](https://www.freepik.com/search?page=2&query=abstract+background)
 * [Animation inspiration](https://tympanus.net/codrops/)
+* [Free stock photos](https://www.pexels.com/)
+* [Free stock photos2](https://unsplash.com/)
 
 <a name="frameworks"/>
 

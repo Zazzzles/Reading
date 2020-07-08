@@ -147,6 +147,7 @@ A list of articles and other resources for reference as I discover them.
 * [Measure website performance](https://web.dev/measure/)
 * [Css gradient maker](https://cssgradient.io/)
 * [Chart js configurator](https://livegap.com/charts/chart.js/app.php)
+* [Best online font converter](https://onlinefontconverter.com/)
 
 <a name="design"/>
 

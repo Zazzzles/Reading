@@ -89,6 +89,7 @@ A list of articles and other resources for reference as I discover them.
 * [Cloudinary upload API](https://cloudinary.com/documentation/react_integration)
 * [Memmory usage](https://github.com/lloyd/node-memwatch)
 * [Storybook component manager](https://storybook.js.org/)
+* [Typora Markdown Editor](https://typora.io/)
 
 <a name="gatsby">
   

@@ -377,3 +377,4 @@ A list of articles and other resources for reference as I discover them.
 * [Making a chrome extension](https://thoughtbot.com/blog/how-to-make-a-chrome-extension)
 * [Avoid unnecesary re-renders for Redux connected components](https://stackoverflow.com/questions/53465166/how-to-avoid-re-render-in-react-redux-connected-component)
 * [Linking google domains with heroku app](https://medium.com/@david.gagne/set-up-a-custom-domain-for-your-heroku-application-using-google-domains-guaranteed-a2b2ff934f97)
+* [Authorization vs Authentication](https://blog.restcase.com/4-most-used-rest-api-authentication-methods/)

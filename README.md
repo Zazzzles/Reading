@@ -101,7 +101,6 @@ A list of articles and other resources for reference as I discover them.
   
 ### Rollup plugins ###
 
-
 * [Useful plugins](https://github.com/rollup/plugins)
 
 <a name="nextresources"/>
@@ -197,7 +196,7 @@ A list of articles and other resources for reference as I discover them.
 * [FeatherJS realtime API framework](https://feathersjs.com/)
 * [Composition vs inheritance](https://medium.com/humans-create-software/composition-over-inheritance-cb6f88070205)
 * [Optional chaining](https://www.stefanjudis.com/today-i-learned/optional-chaining-helps-to-avoid-undefined-is-not-a-function-exceptions/)
-
+* [Peer.js](https://peerjs.com/)
 
 <a name="testing"/>
 

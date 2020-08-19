@@ -379,3 +379,4 @@ A list of articles and other resources for reference as I discover them.
 * [Authorization vs Authentication](https://blog.restcase.com/4-most-used-rest-api-authentication-methods/)
 * [Javascript interview questions](https://dev.to/devabhijeet/all-front-end-interview-questions-asked-during-my-recent-job-hunt-1kge)
 * [The laws of UX](https://lawsofux.com/)
+* [Setting up CORS for google cloud storage bucket](https://bitmovin.com/docs/encoding/faqs/how-do-i-set-up-cors-for-my-google-cloud-storage-bucket)

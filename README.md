@@ -259,7 +259,7 @@ A list of articles and other resources for reference as I discover them.
 
 <a name="blogs">
 
-### Videos ###
+### Blogs ###
 
 * [DEV.to](https://dev.to/)
 * [Hackernoon](https://hackernoon.com/)

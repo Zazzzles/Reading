@@ -22,6 +22,7 @@ A list of articles and other resources for reference as I discover them.
 * [Websites that look good](#websites) :computer:
 * [Dope fonts](#fonts) :black_nib:
 * [Videos](#videos) :tv:
+* [Blogs](#blogs) 📰
 * [Articles](#articles) 📇
 
 
@@ -254,7 +255,15 @@ A list of articles and other resources for reference as I discover them.
 
 * [A Treatise on state](https://www.youtube.com/watch?v=tBz3UmZG_bk)
 * [Stop sprinting and start shaping](https://www.youtube.com/watch?v=ns_i03epYD8)
-  
+
+
+<a name="blogs">
+
+### Videos ###
+
+* [DEV.to](https://dev.to/)
+* [Hackernoon](https://hackernoon.com/)
+* [David Walsh Blog](https://davidwalsh.name/) 
 
 <a name="articles"/>
 

@@ -390,3 +390,4 @@ A list of articles and other resources for reference as I discover them.
 * [The laws of UX](https://lawsofux.com/)
 * [Setting up CORS for google cloud storage bucket](https://bitmovin.com/docs/encoding/faqs/how-do-i-set-up-cors-for-my-google-cloud-storage-bucket)
 * [Abstraction can be dangerous](https://dev.to/wuz/stop-trying-to-be-so-dry-instead-write-everything-twice-wet-5g33/comments)
+* [How to make an instagram bot](https://dev.to/ayushi_rawat_/how-to-make-an-instagram-bot-with-python-1ggb)

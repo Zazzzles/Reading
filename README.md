@@ -229,6 +229,7 @@ A list of articles and other resources for reference as I discover them.
 * [Rollup](https://rollupjs.org/guide/en/)
 * [Setting up continuous integration with Github Actions](https://help.github.com/en/actions/building-and-testing-code-with-continuous-integration/setting-up-continuous-integration-using-github-actions)
 * [Storybook component manager](https://storybook.js.org/)
+* [Bulletproof next.js](https://getstarted.sh/bulletproof-next/)
 
 <a name="websites"/>
 

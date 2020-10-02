@@ -152,6 +152,7 @@ A list of articles and other resources for reference as I discover them.
 * [Headingsmap accesibility extension](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi)
 * [Accesibility checklist](https://www.a11yproject.com/checklist/#headings)
 * [Certbot - easy TLS Certs for debian apache](https://certbot.eff.org/lets-encrypt/debianbuster-apache)
+* [Best pract for web accesibility](https://a11yresources.webflow.io/)
 
 <a name="design"/>
 
@@ -230,6 +231,7 @@ A list of articles and other resources for reference as I discover them.
 * [Setting up continuous integration with Github Actions](https://help.github.com/en/actions/building-and-testing-code-with-continuous-integration/setting-up-continuous-integration-using-github-actions)
 * [Storybook component manager](https://storybook.js.org/)
 * [Bulletproof next.js](https://getstarted.sh/bulletproof-next/)
+* [Best pract for web accesibility](https://a11yresources.webflow.io/)
 
 <a name="websites"/>
 

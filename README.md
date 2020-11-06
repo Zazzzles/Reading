@@ -262,6 +262,7 @@ A list of articles and other resources for reference as I discover them.
 
 * [A Treatise on state](https://www.youtube.com/watch?v=tBz3UmZG_bk)
 * [Stop sprinting and start shaping](https://www.youtube.com/watch?v=ns_i03epYD8)
+* [Docker in 2 hours](https://www.youtube.com/watch?v=fqMOX6JJhGo&ab_channel=freeCodeCamp.org)
 
 
 <a name="blogs">

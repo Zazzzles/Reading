@@ -180,6 +180,7 @@ A list of articles and other resources for reference as I discover them.
 * [Svelte](https://svelte.dev/)
 * [Sapper for Svelte](https://sapper.svelte.dev/)
 * [Gatsby.js](https://www.gatsbyjs.org/)
+* [React admin](https://marmelab.com/react-admin/)
 
 <a name="js"/>
 

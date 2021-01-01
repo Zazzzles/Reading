@@ -23,6 +23,7 @@ A list of articles and other resources for reference as I discover them.
 * [Dope fonts](#fonts) :black_nib:
 * [Videos](#videos) :tv:
 * [Blogs](#blogs) 📰
+* [Kotlin](#kotlin)
 * [Articles](#articles) 📇
 
 
@@ -273,6 +274,12 @@ A list of articles and other resources for reference as I discover them.
 * [DEV.to](https://dev.to/)
 * [Hackernoon](https://hackernoon.com/)
 * [David Walsh Blog](https://davidwalsh.name/) 
+
+<a name="kotlin">
+
+### Kotlin ###
+
+* [Network calls](https://www.rockandnull.com/network-call-kotlin/)
 
 <a name="articles"/>
 

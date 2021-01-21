@@ -235,6 +235,7 @@ A list of articles and other resources for reference as I discover them.
 * [Bulletproof next.js](https://getstarted.sh/bulletproof-next/)
 * [Best pract for web accesibility](https://a11yresources.webflow.io/)
 * [Deplying a static site to google cloud storage bucket with github actions](https://www.mickaelvieira.com/blog/2020/01/29/deploying-a-static-website-to-google-cloud-storage-with-github-actions.html)
+* [Writing a good next.js docker file](https://tiaan.dev/posts/writing-a-nextjs-dockerfile/)
 
 <a name="websites"/>
 

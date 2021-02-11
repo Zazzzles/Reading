@@ -183,6 +183,7 @@ A list of articles and other resources for reference as I discover them.
 * [Sapper for Svelte](https://sapper.svelte.dev/)
 * [Gatsby.js](https://www.gatsbyjs.org/)
 * [React admin](https://marmelab.com/react-admin/)
+* [Notus for tailwind](https://demos.creative-tim.com/notus-nextjs/)
 
 <a name="js"/>
 

@@ -82,6 +82,7 @@ A list of articles and other resources for reference as I discover them.
 * [Transition Animations](https://transitionlink.tylerbarnes.ca/docs/anilink/)
 * [Apollo for graphql](https://www.apollographql.com/docs/react/)
 * [React flow interactive flow diagram building](https://reactflow.dev/docs/)
+* [Another interactive flow driagram building lib](https://rete.js.org/#/examples/basic)
 
 <a name="tools"/>
 

@@ -116,6 +116,7 @@ A list of articles and other resources for reference as I discover them.
 * [Optimized images](https://www.npmjs.com/package/next-optimized-images)
 * [Next css](https://www.npmjs.com/package/@zeit/next-css)
 * [Bundle analyzer](https://www.npmjs.com/package/webpack-bundle-analyzer)
+* [Next auth](https://next-auth.js.org/)
 
 <a name="expressmidware"/>
 

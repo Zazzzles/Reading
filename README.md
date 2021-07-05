@@ -415,3 +415,4 @@ A list of articles and other resources for reference as I discover them.
 * [Abstraction can be dangerous](https://dev.to/wuz/stop-trying-to-be-so-dry-instead-write-everything-twice-wet-5g33/comments)
 * [How to make an instagram bot](https://dev.to/ayushi_rawat_/how-to-make-an-instagram-bot-with-python-1ggb)
 * [5 Most common issues a blind person has with modern websites](https://bighack.org/5-most-annoying-website-features-i-face-as-a-blind-screen-reader-user-accessibility/)
+* [Design patterns with Typescript](https://refactoring.guru/design-patterns/typescript)

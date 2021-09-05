@@ -83,6 +83,7 @@ A list of articles and other resources for reference as I discover them.
 * [Apollo for graphql](https://www.apollographql.com/docs/react/)
 * [React flow interactive flow diagram building](https://reactflow.dev/docs/)
 * [Another interactive flow driagram building lib](https://rete.js.org/#/examples/basic)
+* [FIGfont spec in JavaScript](https://www.npmjs.com/package/figlet)
 
 <a name="tools"/>
 
